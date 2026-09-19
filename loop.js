@@ -10,5 +10,5 @@ let fruits = [ "Mango", "Jackfruit","Apple","Orange" ];
 let i = 0;
 while(i< fruits.length){
     console.log("Khabo: ", fruits[i]);
-    i++;
+    i
 }
